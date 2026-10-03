@@ -1,0 +1,19 @@
+                BODEGÓN                 
+            Factura de venta            
+========================================
+Ticket #: 4
+Fecha:    29/09/2026 11:29 AM
+Cliente:  Consumidor final
+Cajero:   Cajero
+----------------------------------------
+Producto            Cant  P/U $   Subt $
+----------------------------------------
+Aceite Vatel 1L        1   3.00     3.00
+Coca Cola 2L           1   1.80     1.80
+----------------------------------------
+TOTAL USD                     $     4.80
+Tasa BCV                          857.89
+TOTAL BS                     Bs  4117.86
+Forma de pago: Efectivo Bs
+========================================
+        ¡Gracias por su compra!         

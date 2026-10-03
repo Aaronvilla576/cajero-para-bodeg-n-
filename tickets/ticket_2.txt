@@ -1,0 +1,19 @@
+                BODEGÓN                 
+            Factura de venta            
+========================================
+Ticket #: 2
+Fecha:    21/09/2026 12:26 AM
+Cliente:  jefferson
+Cajero:   Cajero
+----------------------------------------
+Producto            Cant  P/U $   Subt $
+----------------------------------------
+Coca Cola 2L           4   1.80     7.20
+Harina PAN 1kg         5   1.20     6.00
+----------------------------------------
+TOTAL USD                     $    13.20
+Tasa BCV                          849.56
+TOTAL BS                     Bs 11214.24
+Forma de pago: Efectivo $
+========================================
+        ¡Gracias por su compra!         

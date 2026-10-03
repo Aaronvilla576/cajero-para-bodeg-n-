@@ -1,0 +1,23 @@
+============================================================
+                REGISTRO DIARIO — 29/09/2026                
+============================================================
+
+Total de ventas: 2
+Total facturado: $8.00  (Bs 6863.10)
+
+------------------------------------------------------------
+VENTAS DEL DÍA
+------------------------------------------------------------
+  #5     11:31 AM   $    3.20  (Bs    2745.24)  Pago: Efectivo Bs
+  #4     11:29 AM   $    4.80  (Bs    4117.86)  Pago: Efectivo Bs
+
+------------------------------------------------------------
+BITÁCORA DE MOVIMIENTOS
+------------------------------------------------------------
+  [11:26 AM] (producto) Producto editado: Aceite Vatel 1L (precio $3.00) — Administrador
+  [11:26 AM] (producto) Producto agregado: avena (stock inicial 20) — Administrador
+  [11:27 AM] (stock) Ajuste de stock en 'Aceite Vatel 1L': +12 (nuevo stock: 14) — Administrador
+  [11:29 AM] (venta) Venta #4 por $4.80 (Bs 4117.86) - Efectivo Bs — Cajero
+  [11:31 AM] (venta) Venta #5 por $3.20 (Bs 2745.24) - Efectivo Bs — Cajero
+
+============================================================
