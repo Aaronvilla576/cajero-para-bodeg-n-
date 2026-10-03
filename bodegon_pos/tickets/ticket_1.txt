@@ -1,0 +1,18 @@
+                BODEGÓN                 
+            Factura de venta            
+========================================
+Ticket #: 1
+Fecha:    21/09/2026 12:24 AM
+Cliente:  Consumidor final
+Cajero:   Cajero
+----------------------------------------
+Producto            Cant  P/U $   Subt $
+----------------------------------------
+Aceite Vatel 1L        9   3.00    27.00
+----------------------------------------
+TOTAL USD                     $    27.00
+Tasa BCV                          849.56
+TOTAL BS                     Bs 22938.23
+Forma de pago: Efectivo Bs
+========================================
+        ¡Gracias por su compra!         
